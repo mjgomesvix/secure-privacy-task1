@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NHibernate" Version="5.3.8" />
+    <PackageReference Include="SaasKit.Multitenancy" Version="1.1.4" />
+  </ItemGroup>
+
+</Project>
